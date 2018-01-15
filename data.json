@@ -1,0 +1,74 @@
+{
+    "winners" : [
+        
+        {
+            "logo"  : "img/logo-en.png",
+            "url"   : "img/winners/ce0d9e01-d21e-4f9d-855f-5ed2ec948ff6-no-border.jpg",
+            "votes" : {
+                "digits" : "24,362",
+                "text" : "votes received "
+            },
+            "primary_category": {
+                "eng": "Freedom of Expression",
+                "fra": "Liberté d'expression"
+            },
+            "title": "The Next Generation, 2015",   
+            "photographer": "Melanie Gray, Humboldt, Saskatchewan",             
+			"description": "For many years, our people were restricted from gathering for pow wows. Now we are proud to host this celebration of culture and heritage every year. This is not just for First Nations – we welcome everyone. It is beautiful to see people coming together.",
+           "orientation": "landscape",
+             "entries" : {
+                "digits" : 984,
+                "text" : "entries"
+            },
+            "selected": {
+                "digits" : 70,
+                "text" : "photographs selected "
+            },
+            "months"  : {
+                "digits" : 6,
+                "text" : "months of voting"
+            },
+            "award"   : {
+                "digits" : 1,
+                "text" : "People’s Choice Award"
+            },
+            "message"   : {
+                "text" : "And the award goes to..."
+            }
+        },
+         {
+            "logo"  : "img/logo-fr.png",             
+            "url"   : "img/winners/ce0d9e01-d21e-4f9d-855f-5ed2ec948ff6-no-border.jpg",
+            "votes" : {
+                "digits" : "24,362",
+                "text" : "votes reçus "
+            },
+            "primary_category": "Liberté d'expression",
+            "title": "La prochaine génération, 2015",
+            "photographer": "Melanie Gray, Humboldt, Saskatchewan",             
+			"description":"Pendant de nombreuses années, la possibilité pour nous de nous rassembler en pow-wows était restreinte. Maintenant, nous sommes fiers d’organiser cette célébration de culture et de patrimoine chaque année. Cette fête n’est pas seulement pour les Premières Nations – nous accueillons tout le monde. C’est formidable de voir les gens se réunir.",
+            "orientation": "landscape",
+            "entries" : {
+                "digits" : 984,
+                "text" : "participations"
+            },
+            "selected": {
+                "digits" : 70,
+                "text" : "photographies choisies"
+            },
+            "months"  : {
+                "digits" : 6,
+                "text" : "mois pour voter"
+            },
+            "award"   : {
+                "digits" : 1,
+                "text" : "prix Choix du public"
+            },
+            "message"   : {
+                "text" : "Et le prix est décerné à..."
+            }
+        }
+    
+    ]
+
+}
